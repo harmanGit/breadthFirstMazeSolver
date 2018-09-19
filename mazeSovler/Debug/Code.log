@@ -1,0 +1,6 @@
+﻿  main.cpp
+  graph.cpp
+c:\users\katrina\desktop\mazesovler\graph.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+graph.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Code.vcxproj -> C:\Users\Katrina\Desktop\mazeSovler\Debug\Code.exe
